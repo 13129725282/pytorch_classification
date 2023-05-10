@@ -1,3 +1,8 @@
+"""
+original code from facebook research:
+https://github.com/facebookresearch/ConvNeXt
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
